@@ -1,6 +1,6 @@
 
 
 def reverse_each_word
-  rint str.split(" ")
+  print reverse_each_word.split(" ")
   
 end
